@@ -19,7 +19,7 @@ A la fin de cet atelier vous serez capable de :
 Connaitre les manipulations de base du logiciel Adobe XD
 
 ## Deliverables
-A partir des images en dessous, vous devez réaliser les maquettes des pages suivantes :
+A partir des images en dessus, vous devez réaliser les maquettes des pages suivantes :
 * Welcome
 * Login Now
 * Sign Up
