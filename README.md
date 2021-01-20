@@ -3,7 +3,7 @@
 ## Introduction
 Ce workshop vous permettra de créer des maquettes graphique d'une application mobile grace à l'usage du logiciel ```Adobe XD```.
 
-## Obcjectifs
+## Objectifs
 
 A la fin de cet atelier vous serez capable de :
 * Concevoir la maquette graphique d’une application mobile
